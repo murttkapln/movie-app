@@ -1,10 +1,14 @@
 import React from "react";
 import AppRouter from "./router/AppRouter";
+import AuthContextProvider from "./context/AuıthContext";
+
 
 const App = () => {
   return (
     <div className="dark:bg-gray-dark-main min-h-screen">
-      <AppRouter/>
+      <AuthContextProvider>
+        <AppRouter />
+      </AuthContextProvider>
     </div>
   );
 };
