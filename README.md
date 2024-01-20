@@ -49,7 +49,7 @@ Data fetched from the IMDB API and present it on website, categorized for easy a
   </ul>
 </div>
 
-[Live Link](https://movie-app-mk.vercel.app)
+[Go To App](https://movie-app-mk.vercel.app)
 
 ![movieapp](src/assets/movie-app.gif)
 
