@@ -28,7 +28,7 @@
  2) run `pnpm run dev` or `yarn run dev` for open development stage
     
    </td>
-    <td> <li> <a href="https://github.com/murttkapln" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/ali-durul/" target="_blank">Visit me on Linkedin</a> 
+    <td> <li> <a href="https://github.com/murttkapln" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/murat-kaplann/" target="_blank">Visit me on Linkedin</a> 
   </tr>
   <tr>
     <td colspan="3"><h3>What is this project about ?</h3> 
